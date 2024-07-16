@@ -1,4 +1,4 @@
-package io.codenamite.avgtemperatures;
+package io.codenamite.avgtemperatures.exception;
 
 public class CorruptedCsvFileException extends RuntimeException {
 
